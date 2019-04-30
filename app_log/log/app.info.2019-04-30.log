@@ -1,0 +1,170 @@
+2019-04-30 16:10:17.095 INFO [main]edu.uni.UniApplicationTests.logStarting:50 -Starting UniApplicationTests on DESKTOP-UDRD1P4 with PID 125620 (started by LM16 in F:\LANG\back_intelliJ\uni)
+2019-04-30 16:10:17.098 INFO [main]edu.uni.UniApplicationTests.logStartupProfileInfo:675 -No active profile set, falling back to default profiles: default
+2019-04-30 16:10:18.288 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:244 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-30 16:10:18.291 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:126 -Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-30 16:10:18.332 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:182 -Finished Spring Data repository scanning in 26ms. Found 0 repository interfaces.
+2019-04-30 16:10:18.683 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'druidConfiguration' of type [edu.uni.config.DruidConfiguration$$EnhancerBySpringCGLIB$$38a07b13] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:10:18.752 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5da6d2c4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:10:20.728 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:10:21.213 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:120 -Context refreshed
+2019-04-30 16:10:21.233 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:123 -Found 1 custom documentation plugin(s)
+2019-04-30 16:10:21.246 INFO [main]s.d.spring.web.scanners.ApiListingReferenceScanner.scan:41 -Scanning for api listing references
+2019-04-30 16:10:21.270 INFO [main]edu.uni.UniApplicationTests.logStarted:59 -Started UniApplicationTests in 4.557 seconds (JVM running for 5.769)
+2019-04-30 16:10:21.485 INFO [Thread-2]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:10:57.892 INFO [main]edu.uni.UniApplicationTests.logStarting:50 -Starting UniApplicationTests on DESKTOP-UDRD1P4 with PID 126480 (started by LM16 in F:\LANG\back_intelliJ\uni)
+2019-04-30 16:10:57.895 INFO [main]edu.uni.UniApplicationTests.logStartupProfileInfo:675 -No active profile set, falling back to default profiles: default
+2019-04-30 16:10:58.933 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:244 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-30 16:10:58.936 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:126 -Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-30 16:10:58.983 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:182 -Finished Spring Data repository scanning in 30ms. Found 0 repository interfaces.
+2019-04-30 16:10:59.394 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'druidConfiguration' of type [edu.uni.config.DruidConfiguration$$EnhancerBySpringCGLIB$$3314a9b8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:10:59.482 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$581b0169] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:11:01.697 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:11:02.330 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:120 -Context refreshed
+2019-04-30 16:11:02.359 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:123 -Found 1 custom documentation plugin(s)
+2019-04-30 16:11:02.375 INFO [main]s.d.spring.web.scanners.ApiListingReferenceScanner.scan:41 -Scanning for api listing references
+2019-04-30 16:11:02.406 INFO [main]edu.uni.UniApplicationTests.logStarted:59 -Started UniApplicationTests in 4.998 seconds (JVM running for 5.892)
+2019-04-30 16:11:03.639 INFO [main]com.alibaba.druid.pool.DruidDataSource.init:922 -{dataSource-1} inited
+2019-04-30 16:11:03.655 INFO [Thread-2]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:11:03.660 INFO [Thread-2]com.alibaba.druid.pool.DruidDataSource.close:1817 -{dataSource-1} closed
+2019-04-30 16:12:04.041 INFO [main]edu.uni.UniApplicationTests.logStarting:50 -Starting UniApplicationTests on DESKTOP-UDRD1P4 with PID 126792 (started by LM16 in F:\LANG\back_intelliJ\uni)
+2019-04-30 16:12:04.044 INFO [main]edu.uni.UniApplicationTests.logStartupProfileInfo:675 -No active profile set, falling back to default profiles: default
+2019-04-30 16:12:05.163 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:244 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-30 16:12:05.166 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:126 -Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-30 16:12:05.206 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:182 -Finished Spring Data repository scanning in 27ms. Found 0 repository interfaces.
+2019-04-30 16:12:05.607 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'druidConfiguration' of type [edu.uni.config.DruidConfiguration$$EnhancerBySpringCGLIB$$d65fa8e4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:12:05.677 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$fb660095] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:12:07.733 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:12:08.280 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:120 -Context refreshed
+2019-04-30 16:12:08.301 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:123 -Found 1 custom documentation plugin(s)
+2019-04-30 16:12:08.312 INFO [main]s.d.spring.web.scanners.ApiListingReferenceScanner.scan:41 -Scanning for api listing references
+2019-04-30 16:12:08.340 INFO [main]edu.uni.UniApplicationTests.logStarted:59 -Started UniApplicationTests in 4.826 seconds (JVM running for 5.895)
+2019-04-30 16:12:09.409 INFO [main]com.alibaba.druid.pool.DruidDataSource.init:922 -{dataSource-1} inited
+2019-04-30 16:12:09.728 INFO [Thread-2]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:12:09.737 INFO [Thread-2]com.alibaba.druid.pool.DruidDataSource.close:1817 -{dataSource-1} closed
+2019-04-30 16:13:42.548 INFO [main]edu.uni.UniApplicationTests.logStarting:50 -Starting UniApplicationTests on DESKTOP-UDRD1P4 with PID 127648 (started by LM16 in F:\LANG\back_intelliJ\uni)
+2019-04-30 16:13:42.555 INFO [main]edu.uni.UniApplicationTests.logStartupProfileInfo:675 -No active profile set, falling back to default profiles: default
+2019-04-30 16:13:43.902 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:244 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-30 16:13:43.907 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:126 -Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-30 16:13:43.980 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:182 -Finished Spring Data repository scanning in 49ms. Found 0 repository interfaces.
+2019-04-30 16:13:44.509 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'druidConfiguration' of type [edu.uni.config.DruidConfiguration$$EnhancerBySpringCGLIB$$422e947f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:13:44.620 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6734ec30] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:13:46.239 WARN [main]o.s.web.context.support.GenericWebApplicationContext.refresh:557 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'amAdjustmentApprovalMapper' defined in file [F:\LANG\back_intelliJ\uni\target\classes\edu\uni\am\mapper\AmAdjustmentApprovalMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is java.lang.IllegalStateException: Property 'configuration' and 'configLocation' can not specified with together
+2019-04-30 16:13:46.271 INFO [main]o.s.b.a.logging.ConditionEvaluationReportLoggingListener.logMessage:142 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-04-30 16:14:41.567 INFO [main]edu.uni.UniApplicationTests.logStarting:50 -Starting UniApplicationTests on DESKTOP-UDRD1P4 with PID 127820 (started by LM16 in F:\LANG\back_intelliJ\uni)
+2019-04-30 16:14:41.570 INFO [main]edu.uni.UniApplicationTests.logStartupProfileInfo:675 -No active profile set, falling back to default profiles: default
+2019-04-30 16:14:43.332 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:244 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-30 16:14:43.340 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:126 -Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-30 16:14:43.440 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:182 -Finished Spring Data repository scanning in 65ms. Found 0 repository interfaces.
+2019-04-30 16:14:44.134 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'druidConfiguration' of type [edu.uni.config.DruidConfiguration$$EnhancerBySpringCGLIB$$6ea1933c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:14:44.262 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$93a7eaed] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:14:47.371 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:14:48.153 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:120 -Context refreshed
+2019-04-30 16:14:48.190 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:123 -Found 1 custom documentation plugin(s)
+2019-04-30 16:14:48.208 INFO [main]s.d.spring.web.scanners.ApiListingReferenceScanner.scan:41 -Scanning for api listing references
+2019-04-30 16:14:48.245 INFO [main]edu.uni.UniApplicationTests.logStarted:59 -Started UniApplicationTests in 7.309 seconds (JVM running for 8.386)
+2019-04-30 16:14:50.049 INFO [main]com.alibaba.druid.pool.DruidDataSource.init:922 -{dataSource-1} inited
+2019-04-30 16:14:50.459 INFO [Thread-2]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:14:50.470 INFO [Thread-2]com.alibaba.druid.pool.DruidDataSource.close:1817 -{dataSource-1} closed
+2019-04-30 16:15:00.486 INFO [main]edu.uni.UniApplicationTests.logStarting:50 -Starting UniApplicationTests on DESKTOP-UDRD1P4 with PID 126716 (started by LM16 in F:\LANG\back_intelliJ\uni)
+2019-04-30 16:15:00.489 INFO [main]edu.uni.UniApplicationTests.logStartupProfileInfo:675 -No active profile set, falling back to default profiles: default
+2019-04-30 16:15:02.108 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:244 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-30 16:15:02.114 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:126 -Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-30 16:15:02.187 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:182 -Finished Spring Data repository scanning in 47ms. Found 0 repository interfaces.
+2019-04-30 16:15:02.861 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'druidConfiguration' of type [edu.uni.config.DruidConfiguration$$EnhancerBySpringCGLIB$$e8c0cc88] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:15:02.997 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$dc72439] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:15:04.877 WARN [main]o.s.web.context.support.GenericWebApplicationContext.refresh:557 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'amAdjustmentApprovalMapper' defined in file [F:\LANG\back_intelliJ\uni\target\classes\edu\uni\am\mapper\AmAdjustmentApprovalMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is java.lang.IllegalStateException: Property 'configuration' and 'configLocation' can not specified with together
+2019-04-30 16:15:04.917 INFO [main]o.s.b.a.logging.ConditionEvaluationReportLoggingListener.logMessage:142 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-04-30 16:19:16.868 INFO [main]edu.uni.UniApplicationTests.logStarting:50 -Starting UniApplicationTests on DESKTOP-UDRD1P4 with PID 128512 (started by LM16 in F:\LANG\back_intelliJ\uni)
+2019-04-30 16:19:16.871 INFO [main]edu.uni.UniApplicationTests.logStartupProfileInfo:675 -No active profile set, falling back to default profiles: default
+2019-04-30 16:19:17.941 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:244 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-30 16:19:17.945 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:126 -Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-30 16:19:17.999 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:182 -Finished Spring Data repository scanning in 32ms. Found 0 repository interfaces.
+2019-04-30 16:19:18.468 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'druidConfiguration' of type [edu.uni.config.DruidConfiguration$$EnhancerBySpringCGLIB$$47fecd5e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:19:18.557 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6d05250f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:19:20.828 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:19:21.363 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:120 -Context refreshed
+2019-04-30 16:19:21.383 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:123 -Found 1 custom documentation plugin(s)
+2019-04-30 16:19:21.395 INFO [main]s.d.spring.web.scanners.ApiListingReferenceScanner.scan:41 -Scanning for api listing references
+2019-04-30 16:19:21.418 INFO [main]edu.uni.UniApplicationTests.logStarted:59 -Started UniApplicationTests in 5.049 seconds (JVM running for 6.021)
+2019-04-30 16:19:22.487 INFO [main]com.alibaba.druid.pool.DruidDataSource.init:922 -{dataSource-1} inited
+2019-04-30 16:19:22.790 INFO [Thread-2]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:19:22.800 INFO [Thread-2]com.alibaba.druid.pool.DruidDataSource.close:1817 -{dataSource-1} closed
+2019-04-30 16:20:04.318 INFO [main]edu.uni.UniApplicationTests.logStarting:50 -Starting UniApplicationTests on DESKTOP-UDRD1P4 with PID 127704 (started by LM16 in F:\LANG\back_intelliJ\uni)
+2019-04-30 16:20:04.319 INFO [main]edu.uni.UniApplicationTests.logStartupProfileInfo:675 -No active profile set, falling back to default profiles: default
+2019-04-30 16:20:05.607 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:244 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-30 16:20:05.611 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:126 -Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-30 16:20:05.663 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:182 -Finished Spring Data repository scanning in 35ms. Found 0 repository interfaces.
+2019-04-30 16:20:06.118 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'druidConfiguration' of type [edu.uni.config.DruidConfiguration$$EnhancerBySpringCGLIB$$38a07b13] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:20:06.205 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5da6d2c4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:20:08.333 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:20:08.841 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:120 -Context refreshed
+2019-04-30 16:20:08.870 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:123 -Found 1 custom documentation plugin(s)
+2019-04-30 16:20:08.887 INFO [main]s.d.spring.web.scanners.ApiListingReferenceScanner.scan:41 -Scanning for api listing references
+2019-04-30 16:20:08.918 INFO [main]edu.uni.UniApplicationTests.logStarted:59 -Started UniApplicationTests in 5.059 seconds (JVM running for 5.896)
+2019-04-30 16:20:10.006 INFO [main]com.alibaba.druid.pool.DruidDataSource.init:922 -{dataSource-1} inited
+2019-04-30 16:20:10.315 INFO [Thread-2]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:20:10.323 INFO [Thread-2]com.alibaba.druid.pool.DruidDataSource.close:1817 -{dataSource-1} closed
+2019-04-30 16:24:05.339 INFO [main]edu.uni.UniApplicationTests.logStarting:50 -Starting UniApplicationTests on DESKTOP-UDRD1P4 with PID 130204 (started by LM16 in F:\LANG\back_intelliJ\uni)
+2019-04-30 16:24:05.342 INFO [main]edu.uni.UniApplicationTests.logStartupProfileInfo:675 -No active profile set, falling back to default profiles: default
+2019-04-30 16:24:06.427 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:244 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-30 16:24:06.431 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:126 -Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-30 16:24:06.487 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:182 -Finished Spring Data repository scanning in 35ms. Found 0 repository interfaces.
+2019-04-30 16:24:06.897 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'druidConfiguration' of type [edu.uni.config.DruidConfiguration$$EnhancerBySpringCGLIB$$e305503d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:24:06.971 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$80ba7ee] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:24:08.974 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:24:09.500 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:120 -Context refreshed
+2019-04-30 16:24:09.524 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:123 -Found 1 custom documentation plugin(s)
+2019-04-30 16:24:09.535 INFO [main]s.d.spring.web.scanners.ApiListingReferenceScanner.scan:41 -Scanning for api listing references
+2019-04-30 16:24:09.558 INFO [main]edu.uni.UniApplicationTests.logStarted:59 -Started UniApplicationTests in 4.708 seconds (JVM running for 5.798)
+2019-04-30 16:24:10.635 INFO [main]com.alibaba.druid.pool.DruidDataSource.init:922 -{dataSource-1} inited
+2019-04-30 16:24:10.955 INFO [Thread-2]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:24:10.964 INFO [Thread-2]com.alibaba.druid.pool.DruidDataSource.close:1817 -{dataSource-1} closed
+2019-04-30 16:24:53.571 INFO [main]edu.uni.UniApplicationTests.logStarting:50 -Starting UniApplicationTests on DESKTOP-UDRD1P4 with PID 124960 (started by LM16 in F:\LANG\back_intelliJ\uni)
+2019-04-30 16:24:53.575 INFO [main]edu.uni.UniApplicationTests.logStartupProfileInfo:675 -No active profile set, falling back to default profiles: default
+2019-04-30 16:24:54.643 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:244 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-30 16:24:54.647 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:126 -Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-30 16:24:54.693 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:182 -Finished Spring Data repository scanning in 29ms. Found 0 repository interfaces.
+2019-04-30 16:24:55.137 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'druidConfiguration' of type [edu.uni.config.DruidConfiguration$$EnhancerBySpringCGLIB$$f7d05241] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:24:55.244 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1cd6a9f2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:24:57.456 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:24:58.046 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:120 -Context refreshed
+2019-04-30 16:24:58.070 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:123 -Found 1 custom documentation plugin(s)
+2019-04-30 16:24:58.081 INFO [main]s.d.spring.web.scanners.ApiListingReferenceScanner.scan:41 -Scanning for api listing references
+2019-04-30 16:24:58.104 INFO [main]edu.uni.UniApplicationTests.logStarted:59 -Started UniApplicationTests in 5.019 seconds (JVM running for 5.87)
+2019-04-30 16:24:59.152 INFO [main]com.alibaba.druid.pool.DruidDataSource.init:922 -{dataSource-1} inited
+2019-04-30 16:24:59.457 INFO [Thread-2]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:24:59.466 INFO [Thread-2]com.alibaba.druid.pool.DruidDataSource.close:1817 -{dataSource-1} closed
+2019-04-30 16:25:48.219 INFO [main]edu.uni.UniApplicationTests.logStarting:50 -Starting UniApplicationTests on DESKTOP-UDRD1P4 with PID 130356 (started by LM16 in F:\LANG\back_intelliJ\uni)
+2019-04-30 16:25:48.221 INFO [main]edu.uni.UniApplicationTests.logStartupProfileInfo:675 -No active profile set, falling back to default profiles: default
+2019-04-30 16:25:49.333 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:244 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-30 16:25:49.336 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:126 -Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-30 16:25:49.380 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:182 -Finished Spring Data repository scanning in 29ms. Found 0 repository interfaces.
+2019-04-30 16:25:49.857 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'druidConfiguration' of type [edu.uni.config.DruidConfiguration$$EnhancerBySpringCGLIB$$3314a9b8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:25:49.953 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$581b0169] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:25:52.305 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:25:53.168 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:120 -Context refreshed
+2019-04-30 16:25:53.217 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:123 -Found 1 custom documentation plugin(s)
+2019-04-30 16:25:53.236 INFO [main]s.d.spring.web.scanners.ApiListingReferenceScanner.scan:41 -Scanning for api listing references
+2019-04-30 16:25:53.269 INFO [main]edu.uni.UniApplicationTests.logStarted:59 -Started UniApplicationTests in 5.774 seconds (JVM running for 6.779)
+2019-04-30 16:25:54.399 INFO [main]com.alibaba.druid.pool.DruidDataSource.init:922 -{dataSource-1} inited
+2019-04-30 16:25:54.732 INFO [Thread-2]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:25:54.740 INFO [Thread-2]com.alibaba.druid.pool.DruidDataSource.close:1817 -{dataSource-1} closed
+2019-04-30 16:26:21.710 INFO [main]edu.uni.UniApplicationTests.logStarting:50 -Starting UniApplicationTests on DESKTOP-UDRD1P4 with PID 125792 (started by LM16 in F:\LANG\back_intelliJ\uni)
+2019-04-30 16:26:21.713 INFO [main]edu.uni.UniApplicationTests.logStartupProfileInfo:675 -No active profile set, falling back to default profiles: default
+2019-04-30 16:26:22.780 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:244 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-30 16:26:22.784 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:126 -Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-30 16:26:22.831 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:182 -Finished Spring Data repository scanning in 31ms. Found 0 repository interfaces.
+2019-04-30 16:26:23.274 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'druidConfiguration' of type [edu.uni.config.DruidConfiguration$$EnhancerBySpringCGLIB$$a2887d05] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:26:23.353 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c78ed4b6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-30 16:26:25.444 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:26:25.988 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:120 -Context refreshed
+2019-04-30 16:26:26.006 INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:123 -Found 1 custom documentation plugin(s)
+2019-04-30 16:26:26.017 INFO [main]s.d.spring.web.scanners.ApiListingReferenceScanner.scan:41 -Scanning for api listing references
+2019-04-30 16:26:26.037 INFO [main]edu.uni.UniApplicationTests.logStarted:59 -Started UniApplicationTests in 4.858 seconds (JVM running for 5.697)
+2019-04-30 16:26:27.170 INFO [main]com.alibaba.druid.pool.DruidDataSource.init:922 -{dataSource-1} inited
+2019-04-30 16:26:27.526 INFO [Thread-2]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-30 16:26:27.536 INFO [Thread-2]com.alibaba.druid.pool.DruidDataSource.close:1817 -{dataSource-1} closed
