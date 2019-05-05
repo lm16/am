@@ -1,11 +1,14 @@
 package edu.uni.am.mapper;
 
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import edu.uni.am.domain.AmStuLeaveConfirm;
 import edu.uni.am.domain.AmStuLeaveConfirmExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 
-public interface AmStuLeaveConfirmMapper {
+
+public interface AmStuLeaveConfirmMapper extends BaseMapper<AmStuLeaveConfirm> {
+
     int countByExample(AmStuLeaveConfirmExample example);
 
     int deleteByExample(AmStuLeaveConfirmExample example);

@@ -1,11 +1,22 @@
 package edu.uni.am.mapper;
 
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import edu.uni.am.domain.AmTeacherAbsenceConfirm;
 import edu.uni.am.domain.AmTeacherAbsenceConfirmExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
+import org.apache.ibatis.annotations.Select;
 
-public interface AmTeacherAbsenceConfirmMapper {
+public interface AmTeacherAbsenceConfirmMapper extends BaseMapper<AmTeacherAbsenceConfirm> {
+
+    @Select("select COUNT(*) from am_teacher_absence_confirm where employee_absence_id = #{employeeAbsenceId} and status=0")
+    int getByEmployeeAbsenceId(Long employeeAbsenceId);
+
+    /*
+
+     */
+
+
     int countByExample(AmTeacherAbsenceConfirmExample example);
 
     int deleteByExample(AmTeacherAbsenceConfirmExample example);

@@ -22,21 +22,22 @@ public class Swagger2 {
     @Bean
     public Docket createRestApi() {
         return new Docket(DocumentationType.SWAGGER_2)
-                .apiInfo(apiInfo())
+//                .apiInfo(apiInfo())
                 .select()
 //                .apis(RequestHandlerSelectors.basePackage("edu.uni.example.controller"))
                 // 扫描使用了@Api注解的类
-                .apis(RequestHandlerSelectors.withClassAnnotation(Api.class))
-                .paths(PathSelectors.any())
+//                .apis(RequestHandlerSelectors.withClassAnnotation(Api.class))
+                .apis(RequestHandlerSelectors.basePackage("edu.uni.am.controller"))
+//                .paths(PathSelectors.any())
                 .build();
     }
 
-    private ApiInfo apiInfo() {
-        return new ApiInfoBuilder()
-                .title("springboot利用swagger构建api文档")
-                .description("#")
-                .termsOfServiceUrl("#")
-                .version("1.0")
-                .build();
-    }
+//    private ApiInfo apiInfo() {
+//        return new ApiInfoBuilder()
+//                .title("springboot利用swagger构建api文档")
+//                .description("#")
+//                .termsOfServiceUrl("#")
+//                .version("1.0")
+//                .build();
+//    }
 }

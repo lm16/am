@@ -1,11 +1,13 @@
 package edu.uni.am.mapper;
 
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import edu.uni.am.domain.AmStuAbsence;
 import edu.uni.am.domain.AmStuAbsenceExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 
-public interface AmStuAbsenceMapper {
+public interface AmStuAbsenceMapper extends BaseMapper<AmStuAbsence> {
+
     int countByExample(AmStuAbsenceExample example);
 
     int deleteByExample(AmStuAbsenceExample example);
